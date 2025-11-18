@@ -1,0 +1,8 @@
+build
+mainLOG.txt
+ERRORlog.txt
+dist/mainLOG.txt
+dist/ERRORlog.txt
+venv
+dist/adomlist.txt
+*.spec
